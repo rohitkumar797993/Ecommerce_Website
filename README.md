@@ -1,7 +1,7 @@
 # Ecommerce-Website-College-Project
 
 
-Tech : HTML & CSS
+Tech : HTML ,  Js  & CSS
 
 
 ### Need Code, Documents & Explanation video ? 
